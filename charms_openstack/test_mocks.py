@@ -84,4 +84,5 @@ def mock_charmhelpers():
         'xena',
         'yoga',
         'zed',
+        'antelope',
     )
